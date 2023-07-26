@@ -1,2 +1,2 @@
 # go-learning
-learning development backend with golang
+learning developint backend with golang
